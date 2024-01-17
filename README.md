@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/btp-credential-store)](https://api.reuse.software/info/github.com/SAP-docs/btp-credential-store)
+[![REUSE status]()]()
 
 # Contributions to the SAP Cloud Identity Services Documentation
 
