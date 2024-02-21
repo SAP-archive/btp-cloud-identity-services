@@ -66,7 +66,7 @@ Tenants delivered for applications running on customer-managed subaccounts
 
 Tenant delivery is triggered by the customer in SAP BTP cockpit. The tenant is not preconfigured and must be configured by the customer.
 
-For more information, see [Get Your Tenant](../get-your-tenant-0a7313e.md).
+For more information, see [Get Your Tenant](../20-getting-started/get-your-tenant-0a7313e.md).
 
 </td>
 </tr>

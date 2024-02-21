@@ -11,7 +11,7 @@ SAP Cloud Identity Services refer to a bundle as a group of preconfigured SAP cl
 
 The bundling process results in provisioning an SAP Cloud Identity Services tenant to your organization, where Identity Authentication and Identity Provisioning are preconfigured for the relevant SAP cloud solution. In the majority of cases, this means that in the SAP Cloud Identity Services admin console, a bundled application is created and connected to the cloud solution, where your users will log on. The trust between Identity Authentication and the given solution is established. For Identity Provisioning, this means that communication and authentication with the provisioning system is set up. You are ready to schedule and run jobs to synchronize your users and groups.
 
-For more information, see [Get Your Tenant](../get-your-tenant-0a7313e.md) and [How to Use Bundle Tenants](https://help.sap.com/docs/identity-provisioning/identity-provisioning/bundle-tenants-and-connectors?version=Cloud#how-to-use-bundle-tenants).
+For more information, see [Get Your Tenant](../20-getting-started/get-your-tenant-0a7313e.md) and [How to Use Bundle Tenants](https://help.sap.com/docs/identity-provisioning/identity-provisioning/bundle-tenants-and-connectors?version=Cloud#how-to-use-bundle-tenants).
 
 
 

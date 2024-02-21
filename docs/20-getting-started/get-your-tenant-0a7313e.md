@@ -38,7 +38,7 @@ Tenants delivered as part of the bundling process are created automatically. You
 > ### Note:  
 > In the case of SAP SuccessFactors, getting a bundle tenant requires you to initiate an upgrade to SAP Cloud Identity Services in SAP SuccessFactors Upgrade Center. For more information see: [Initiating the Upgrade to SAP Cloud Identity Services - Identity Authentication Service](https://help.sap.com/docs/SAP_SUCCESSFACTORS_PLATFORM/568fdf1f14f14fd089a3cd15194d19cc/0271d9c4176e45ca9307e49230073240.html?version=2305).
 
-For more information, see [Bundles](10-basic-concepts/bundles-c1550b6.md).
+For more information, see [Bundles](../10-basic-concepts/bundles-c1550b6.md).
 
 
 
@@ -65,7 +65,7 @@ Additional tenants and trial tenants are also created through self-service reque
 > ### Note:  
 > Be aware that it will take some time until the tenant becomes accessible. If you try to access the tenant right after creating it, you will receive ***Error 404 Not Found***.
 
-For more information, see [Tenants](10-basic-concepts/tenants-e52769f.md).
+For more information, see [Tenants](../10-basic-concepts/tenants-e52769f.md).
 
 
 

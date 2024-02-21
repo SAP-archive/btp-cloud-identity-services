@@ -6,7 +6,7 @@ A tenant refers to your \(customer-specific\) instance of SAP Cloud Identity Ser
 
 When SAP Cloud Identity Services are bundled with an SAP cloud solution, you are entitled to one productive and one test tenant preconfigured with the SAP cloud solution. If you get another solution that also bundles SAP Cloud Identity Services, you don't get additional tenant. Your existing one is reused. When your tenant is created as a result of a self-service request, it isn't preconfigured out of the box. You must set it up manually for your specific authentication and provisioning scenarios.
 
-For more information, see [Get Your Tenant](../get-your-tenant-0a7313e.md) and [Bundles](bundles-c1550b6.md).
+For more information, see [Get Your Tenant](../20-getting-started/get-your-tenant-0a7313e.md) and [Bundles](bundles-c1550b6.md).
 
 Standalone tenants refer to SAP Cloud Identity Services - Identity Provisioning tenants delivered and used as a separate \(standalone\) product. As of October 20, 2020, Identity Provisioning is no longer sold as a standalone product. Existing customers of standalone tenants can use them as-is until the end of their contracts.
 

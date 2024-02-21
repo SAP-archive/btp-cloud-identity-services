@@ -156,7 +156,7 @@ Authorization Management enables you to refine authorization policies that give 
 
 SAP Cloud Identity Services offers the following scenarios:
 
--   [Identity Authentication Scenarios](scenarios-fb9898d.md) for consumers \(business-to-consumer scenarios\), partners \(business-to-business scenarios\), and employees \(business-to-employee scenarios\).
+-   [Identity Authentication Scenarios](30-scenarios/scenarios-fb9898d.md) for consumers \(business-to-consumer scenarios\), partners \(business-to-business scenarios\), and employees \(business-to-employee scenarios\).
 
 -   [Authorization Management Scenario](https://help.sap.com/docs/identity-authentication/identity-authentication/configuring-authorization-policies?version=Cloud) for configuring and assigning authorization policies to users.
 
