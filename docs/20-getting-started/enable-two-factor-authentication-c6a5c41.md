@@ -3,8 +3,7 @@
 # Enable Two-Factor Authentication
 
 Enable two-factor authentication for all administrators accessing SAP Cloud Identity Services administration console.
-
-
+ 
 
 <a name="loioc6a5c41872234d8b80f28d48a4d31ca0__context_bkb_j5c_lxb"/>
 
