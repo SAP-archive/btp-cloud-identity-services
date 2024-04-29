@@ -1,4 +1,10 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-docs/btp-cloud-identity-services)](https://api.reuse.software/info/github.com/SAP-docs/btp-cloud-identity-services)
+## Important Notice
+
+This public repository is read-only and no longer maintained.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
 
 # Contributions to the SAP Cloud Identity Services Documentation
 
